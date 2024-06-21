@@ -1,2 +1,3 @@
 # Apnacollege-demo
-This my first repository
+This is my first repository
+Author - Gohil vasu
